@@ -26,12 +26,6 @@ function About() {
 
 Beyond coding, I love watching TV shows, traveling, taking nature walks, and diving into a good book 🤓. I'm always on the lookout for new reads, so feel free to share any recommendations! ✨"
           </p>
-          <p>
-            Other than coding, I watch tv shows, knit, workout and volunteer at
-            my church as a counsellor for teenagers.🤓 I've also been trying to
-            read more so feel free to reach out to me with any book
-            recommendations! ✨
-          </p>
         </div>
       </main>
     </div>
