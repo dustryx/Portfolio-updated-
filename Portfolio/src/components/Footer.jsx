@@ -22,7 +22,7 @@ export default function Footer() {
             <ion-icon name="logo-github"></ion-icon>
           </a>
           <a
-            href="https://www.linkedin.com/in/tracy-karanja-24a10027a/"
+            href="https://www.linkedin.com/in/alex-karanja-44475126b/"
             target="_blank"
             rel="noopener noreferrer"
           >
